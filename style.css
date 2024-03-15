@@ -1,0 +1,62 @@
+
+.app-title {
+    text-align: center;
+  }
+  
+  .card {
+    margin-top: 20px;
+  }
+  
+  .card-header {
+    background-color: #7eb7f3bd;
+    color: #fff;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .btn-primary {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  .btn-primary:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+  
+  .btn-outline-danger {
+    color: #371616;
+    border-color: #dc3545;
+  }
+  
+  .btn-outline-danger:hover {
+    background-color: #dc3545;
+    border-color: #dc3545;
+  }
+  
+  .delete-item {
+    color: #dc3545;
+  }
+  
+  .delete-item:hover {
+    color: #c82333;
+  }
+  
+  .list-group-item {
+    position: relative;
+  }
+  
+  .list-group-item-secondary {
+    background-color: #f8f9fa;
+  }
+  
+  .list-group-item-danger {
+    background-color: #f8d7da;
+  }
+  
+  .list-group-item-danger:hover {
+    background-color: #f4c2c7;
+  }
+  
